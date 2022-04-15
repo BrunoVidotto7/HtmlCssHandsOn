@@ -1,2 +1,2 @@
-# Html, Css and Javascript HandsOn
+# Html, Css and Javascript Hands-on
 Learning the basic of HTML, CSS and Javascript.
